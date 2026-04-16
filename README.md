@@ -16,8 +16,8 @@ This repository documents my learning journey through the BrightLearn Data Analy
 - Canva
 - GitHub
  ## Projects
-- Assignment 1
- [Research Assignment 1.pdf](https://github.com/user-attachments/files/26795356/Research.Assignment.1.pdf)
+Assignment 1
+ - [Research Assignment 1.pdf](https://github.com/user-attachments/files/26795356/Research.Assignment.1.pdf)
 
  
 
