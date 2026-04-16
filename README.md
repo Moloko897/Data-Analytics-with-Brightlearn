@@ -4,21 +4,19 @@ This repository documents my learning journey through the BrightLearn Data Analy
 ## Tools & Technologies Used
 - Excel (formulas, pivot tables, dashboards)
 - Power Query
-- Excel (formulas, pivot tables, dashboards)
-- Power Query
 - Data cleaning and preparation techniques
 - Data visualization principles
 - Analytical thinking and problem‑solving
--Databricks
--Snowflake
--BigQuery (Google Cloud)
--Miro
--Figma
--Looker Studio
--Canva
--GitHub
+- Databricks
+- Snowflake
+- BigQuery (Google Cloud)
+- Miro
+- Figma
+- Looker Studio
+- Canva
+- GitHub
  ## Projects
- -Assignment 1
+Assignment 1
  [Research Assignment 1.pdf](https://github.com/user-attachments/files/26795356/Research.Assignment.1.pdf)
 
  
