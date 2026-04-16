@@ -1,4 +1,4 @@
-# Data-Analysis-Learning-Journey
+# Data-Analytics-with-BrightLearn
 This repository documents my learning journey through the BrightLearn Data Analytics program. It features hands‑on exercises, practical mini‑projects, and foundational analytics work that strengthen my ability to transform raw data into clear, meaningful insights.
 
 ## Tools & Technologies Used
