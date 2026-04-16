@@ -4,11 +4,11 @@ This repository documents my learning journey through the BrightLearn Data Analy
 ## Tools & Technologies Used
 - Excel (formulas, pivot tables, dashboards)
 - Power Query
--Excel (formulas, pivot tables, dashboards)
--Power Query
--Data cleaning and preparation techniques
--Data visualization principles
--Analytical thinking and problem‑solving
+- Excel (formulas, pivot tables, dashboards)
+- Power Query
+- Data cleaning and preparation techniques
+- Data visualization principles
+- Analytical thinking and problem‑solving
 -Databricks
 -Snowflake
 -BigQuery (Google Cloud)
