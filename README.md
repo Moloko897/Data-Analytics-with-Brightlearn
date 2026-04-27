@@ -1,3 +1,5 @@
+ 
+
 # Data-Analytics-with-BrightLearn
 This repository documents my learning journey through the BrightLearn Data Analytics program. It features hands‑on exercises, practical projects, and foundational analytics work that strengthen my ability to transform raw data into clear, meaningful insights.
 
@@ -18,6 +20,9 @@ This repository documents my learning journey through the BrightLearn Data Analy
  ## Projects
 Assignment 1
  - [Research Assignment 1.pdf](https://github.com/user-attachments/files/26795356/Research.Assignment.1.pdf)
+  Research Assignment 2
+ - [BrightLearn Assignment 2.pdf-compressed.pdf](https://github.com/user-attachments/files/27143759/BrightLearn.Assignment.2.pdf-compressed.pdf)
+
 
  
 
