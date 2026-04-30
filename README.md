@@ -17,12 +17,15 @@ This repository documents my learning journey through the BrightLearn Data Analy
 - Looker Studio
 - Canva
 - GitHub
- ## Projects
+ ## Research Projects
 Assignment 1
  - [Research Assignment 1.pdf](https://github.com/user-attachments/files/26795356/Research.Assignment.1.pdf)
    
 Research Assignment 2
  - [BrightLearn Assignment 2.pdf-compressed.pdf](https://github.com/user-attachments/files/27143759/BrightLearn.Assignment.2.pdf-compressed.pdf)
+
+## SQL Fundamentals Exercises
+[SQL Fundamental exercise1-compressed.pdf](https://github.com/user-attachments/files/27259065/SQL.Fundamental.exercise1-compressed.pdf)
 
 
  
