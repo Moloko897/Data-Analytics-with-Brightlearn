@@ -27,6 +27,13 @@ Research Assignment 2
 ## SQL Fundamentals Exercises
 [SQL Fundamental exercise1-compressed.pdf](https://github.com/user-attachments/files/27259065/SQL.Fundamental.exercise1-compressed.pdf)
 
+## Exercise 2
+[Exercise 2.pdf](https://github.com/user-attachments/files/27305889/Exercise.2.pdf)
+
+[Exercise 2 (1).pdf](https://github.com/user-attachments/files/27305899/Exercise.2.1.pdf)
+
+
+
 
  
 
