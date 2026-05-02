@@ -28,11 +28,11 @@ Research Assignment 2
 [SQL Fundamental exercise1-compressed.pdf](https://github.com/user-attachments/files/27259065/SQL.Fundamental.exercise1-compressed.pdf)
 
 ## Exercise 2
-Question paper
-[Exercise 2.pdf](https://github.com/user-attachments/files/27305889/Exercise.2.pdf)
+[Exercise 2 Question paper.pdf](https://github.com/user-attachments/files/27306002/Exercise.2.Question.paper.pdf)
 
-Hand written answers
-[Exercise 2 (1).pdf](https://github.com/user-attachments/files/27305899/Exercise.2.1.pdf)
+[Exercise 2  Hand written answers(1).pdf](https://github.com/user-attachments/files/27306005/Exercise.2.Hand.written.answers.1.pdf)
+
+
 
 
 
